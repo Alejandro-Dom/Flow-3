@@ -4,9 +4,7 @@ En este repositorio se encuentra el ejercicio de Flow 3
 ## Ejercicio
 En este ejercicio se utilizarán nuevos nodos dashboard, que sirven para crear gráficas de diferentes tipos, y que se modifiquen conforme se reciben diferentes datos
 - Nodos que se usaran:
-	-4 nodos inject.
-		-El primer nodo mandara una cadena de texto.
-		-Los tres nodos restantes mandaran un número entero, 0, 5 y 10.
+	- 4 nodos inject
 	- 1 nodo dashboard text.
 	- 1 nodo dashboard gauge.
 	- 1 nodo dashboard chart.
